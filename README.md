@@ -52,3 +52,5 @@ You can run them both from the command line using: `npm run test`
 If you wish to only run cypress and open it's user interface (recommended during development), you can run: `npm run cypress`
 
 If you wish to only run Jest tests, you can run `npm run jest` like normal and target specific tests. You can specify command line config options to forward to the jest command with `--` like so: `npm run jest -- --watch`
+
+### My Edits 👍
